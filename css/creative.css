@@ -318,3 +318,15 @@ header.masthead p {
 .ex-para{
     font-size: 50pt;
 }
+
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+}
+
+.btn > dropdown-toggle {
+    text-decoration: none;
+}
+
